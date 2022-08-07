@@ -1,0 +1,17 @@
+{
+  "type": "cosmos",
+  "value": {
+    "key": "1",
+    "chain-id": "STRIDE-TESTNET-2",
+    "rpc-addr": "http://65.21.146.215:16657",
+    "account-prefix": "stride",
+    "keyring-backend": "test",
+    "gas-adjustment": 1.2,
+    "gas-prices": "0.001ustrd",
+    "gas": 200000,
+    "timeout": "10s",
+    "trusting-period": "8h",
+    "output-format": "json",
+    "sign-mode": "direct"
+  }
+}
